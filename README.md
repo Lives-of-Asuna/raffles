@@ -1,14 +1,12 @@
 # Capsule House Raffle
 
-This repository provides a history of the Capsule House 1/1 Seerlight Raffle system.
+This repository provides a history of the Lives of Asuna Legendary Raffle system.
 
-Raffles are held every other month, starting 11/2021. 
-To qualify, you must have held a Capsule for at least 30 days. 
-Each Capsule is equivalent to one entry.
+Each Asuna is equivalent to one entry.
 
 # Implementation Details
 
-Prior to the drawing, a list of all qualified addresses with their corresponding Capsule IDs will be posted here, as well as the list of capsule IDs.
+Prior to the drawing, a list of all qualified addresses with their corresponding Asuna IDs will be posted here, as well as the list of Asuna IDs.
 
 On the day of the drawing, we will use `requestRandomWords` on https://etherscan.io/address/0x24c1e2873ec070011c09f15ded9b6f494470352f to generate a Chainlink VRF random seed. For example, let's say there are five Capsules eligible for the raffle, with the ids:
 
