@@ -1,4 +1,4 @@
-# Capsule House Raffle
+# Lives of Asuna Raffle
 
 This repository provides a history of the Lives of Asuna Legendary Raffle system.
 
