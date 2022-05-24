@@ -26,4 +26,18 @@ The Asuna at index 1 is 52, so the owner of Asuna 52 wins at the time of the sna
 
 # Drawing History
 
+**5-23-22:**
+
+Seed drawn. https://etherscan.io/tx/0xe0877200d2c966ba0dc579bb5bf091c3ab3daa3d68149eca5f4169610ddb2cdd#statechange
+
+Seed value: 70177777071533993175965106129838423495986341010648032094018797229518059778526
+
+Total number of Asunas: 10000
+
+Index of winning Asuna: 70177777071533993175965106129838423495986341010648032094018797229518059778526 % 10000 = 8526
+
+Asuna ID at index 8526: [8526](https://opensea.io/assets/ethereum/0xaf615b61448691fc3e4c61ae4f015d6e77b6cca8/8526)
+
+Holder of Asuna 8526 at the time of the snapshot: 0xe48c9423046d888AdA50501Cb4F5fC7754Bb8a81
+
 
