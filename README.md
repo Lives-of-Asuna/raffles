@@ -68,4 +68,18 @@ Asuna ID at index 8716: [8716](https://opensea.io/assets/ethereum/0xaf615b614486
 
 Holder of Asuna 8716 at the time of the snapshot: 0x9416751624c57427921A62Fc8d284fdA02824247
 
+**5-26-22:** 
+
+Seed drawn. https://etherscan.io/tx/0x919c682482e1bbabd27836d225f5b6d9c134941bf4aa2a664c346a6f9c096b58#statechange
+
+Seed value: 95503258518209362164851315866991924826994965973077388246919821312245644103764
+
+Total number of Asunas: 10000
+
+Index of winning Asuna: 95503258518209362164851315866991924826994965973077388246919821312245644103764 % 10000 = 3764
+
+Asuna ID at index 3764: [3764](https://opensea.io/assets/ethereum/0xaf615b61448691fc3e4c61ae4f015d6e77b6cca8/3764)
+
+Holder of Asuna 3764 at the time of the snapshot: 0xbfF2D0869F2926c93D7975B3f4221b45084fa85a
+
 
